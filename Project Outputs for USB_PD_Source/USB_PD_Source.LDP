@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\Documents\PCB Design\USB_PD_Source\USB_PD_Source.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb_pd_source-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb_pd_source-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=usb_pd_source-rectholes.txt|DrillLayers=gtl,gbl
